@@ -1,0 +1,5 @@
+resources/chats
+public/images/chats
+vendor
+.idea
+config.php
